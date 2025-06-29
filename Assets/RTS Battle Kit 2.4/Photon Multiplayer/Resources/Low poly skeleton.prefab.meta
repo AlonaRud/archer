@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f0150c47d25db1459e01042fc84012e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly skeleton.prefab
+  uploadId: 384150

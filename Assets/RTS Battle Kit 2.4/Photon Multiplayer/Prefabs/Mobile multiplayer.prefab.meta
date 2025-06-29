@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 008a7e993ada696418012da22c0bd005
+timeCreated: 1476905175
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Prefabs/Mobile multiplayer.prefab
+  uploadId: 384150

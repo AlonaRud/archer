@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: caaee2a100c65bc49be0b71699f830e8
+timeCreated: 1481968549
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Bot metal
+    grey.mat
+  uploadId: 384150

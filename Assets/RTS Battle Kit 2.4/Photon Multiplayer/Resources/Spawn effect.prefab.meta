@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28be397a063ef2343850f876615232fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Spawn effect.prefab
+  uploadId: 384150

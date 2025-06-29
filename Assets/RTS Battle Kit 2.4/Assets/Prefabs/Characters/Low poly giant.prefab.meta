@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f82cfa639f7d8f346885932d19596a28
+timeCreated: 1459858251
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly giant.prefab
+  uploadId: 384150

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a5564beeac00cc47b26eb4166f50d18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly wizard.prefab
+  uploadId: 384150

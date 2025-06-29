@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba9d784808d0a644f8c04826f6a55ce5
+timeCreated: 1473860325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/archer
+    chain mail.mat
+  uploadId: 384150

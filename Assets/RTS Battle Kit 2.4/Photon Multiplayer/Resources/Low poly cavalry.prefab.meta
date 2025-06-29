@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b0d58dd4fb11cf48b4ff2640fd3f7dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly cavalry.prefab
+  uploadId: 384150

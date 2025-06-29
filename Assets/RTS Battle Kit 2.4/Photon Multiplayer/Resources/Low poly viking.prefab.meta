@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2aa682225fde8c948984ec2438ac1b89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly viking.prefab
+  uploadId: 384150

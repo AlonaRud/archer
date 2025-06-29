@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adc27ac2969c61c4eb88822f139e7cb6
+timeCreated: 1481035058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Materials/Ground.mat
+  uploadId: 384150

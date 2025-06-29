@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49c881efeebe18b4bb9c968634d39805
+timeCreated: 1483892848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Models/Materials/Mast.mat
+  uploadId: 384150

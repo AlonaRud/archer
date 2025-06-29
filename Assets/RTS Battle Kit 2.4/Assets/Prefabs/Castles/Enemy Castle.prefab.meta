@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a7632f0bc3f17448a9083acb61a2ccd
+timeCreated: 1459268205
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castles/Enemy Castle.prefab
+  uploadId: 384150

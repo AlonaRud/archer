@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 698af2195b2b8d44b880f4cc72bd66e7
+timeCreated: 1459242500
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/enemy chain
+    mail.mat
+  uploadId: 384150

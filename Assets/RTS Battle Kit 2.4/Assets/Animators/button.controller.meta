@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd5f9ed38a39f9347b274a5f5a2e50cd
+timeCreated: 1472571443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Animators/button.controller
+  uploadId: 384150

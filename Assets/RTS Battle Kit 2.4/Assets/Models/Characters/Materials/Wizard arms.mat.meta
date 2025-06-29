@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f6d00c6f2da99947ab8b2257662cbdd
+timeCreated: 1481979094
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Wizard
+    arms.mat
+  uploadId: 384150

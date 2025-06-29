@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e147fccc01f9099449a15012d80c6966
+timeCreated: 1459263762
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Other/Camera.prefab
+  uploadId: 384150

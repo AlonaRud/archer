@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3db356875fc11e64f8044e64deb407fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Materials/layer_rock
+    texture(10.000,10.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.100.terrainlayer
+  uploadId: 384150

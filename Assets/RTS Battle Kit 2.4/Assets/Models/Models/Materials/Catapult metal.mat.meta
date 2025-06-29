@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c518003488cf3594782f0a26112cb79b
+timeCreated: 1485799189
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Materials/Catapult metal.mat
+  uploadId: 384150

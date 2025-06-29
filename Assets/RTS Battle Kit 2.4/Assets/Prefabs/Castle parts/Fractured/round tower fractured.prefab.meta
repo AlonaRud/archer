@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98955da060b9257448698729ca298148
+timeCreated: 1486248942
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castle parts/Fractured/round
+    tower fractured.prefab
+  uploadId: 384150

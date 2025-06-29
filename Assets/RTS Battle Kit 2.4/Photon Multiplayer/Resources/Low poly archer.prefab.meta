@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac602220fb662fa46bfc5777d22dfaee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly archer.prefab
+  uploadId: 384150

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e893a2e4606f3984db117bad9afbe17f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Animators/Start panel.anim
+  uploadId: 384150

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2355a56bb19da6f46acddb86694f5a66
+timeCreated: 1508778637
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Fractured castle/Materials/Material.mat
+  uploadId: 384150

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 61f6fec78b8456f4ea928853159f6e23
+timeCreated: 1459187706
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/knight
+    helmet 1.mat
+  uploadId: 384150

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 639c67f50b537fb4086504778a2b398f
+timeCreated: 1459242500
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/enemy shirt.mat
+  uploadId: 384150

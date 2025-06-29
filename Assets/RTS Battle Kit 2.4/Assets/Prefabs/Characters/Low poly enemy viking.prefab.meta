@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9afb68d73cf95f146b4af324d2c8b4ca
+timeCreated: 1459243560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly enemy viking.prefab
+  uploadId: 384150

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fcbef61485aaaa408eb13626f14ba36
+timeCreated: 1481737579
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Goblin.mat
+  uploadId: 384150

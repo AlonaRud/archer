@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04d147d669c17374aa5100fcb6b1fc0e
+timeCreated: 1472989533
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castle parts/Castle tower small.prefab
+  uploadId: 384150

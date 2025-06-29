@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8380615104d935145a26b921f0236867
+timeCreated: 1482253721
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Skeleton
+    sword.mat
+  uploadId: 384150

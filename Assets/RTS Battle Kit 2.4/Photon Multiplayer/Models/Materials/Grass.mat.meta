@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4b446ef74a65a34d951c1f41f1023ba
+timeCreated: 1483733413
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Models/Materials/Grass.mat
+  uploadId: 384150

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 595514b27db73674d85111c733c77d9e
+timeCreated: 1481979094
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/wizard
+    hat.mat
+  uploadId: 384150

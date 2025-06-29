@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 925d53ff8d3e43f40b7898e7956ef7c1
+timeCreated: 1473860325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/archer
+    shirt.mat
+  uploadId: 384150

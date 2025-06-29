@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6350f53d280fe0146894962c7c73ac96
+timeCreated: 1482253721
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Skeleton
+    shield 1.mat
+  uploadId: 384150

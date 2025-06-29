@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25fe9c8382a564d44ac567fbd2c207bd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Scenes/Game Scene.unity
+  uploadId: 384150

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d951caa147ce5a5449c5099db266b897
+timeCreated: 1474988668
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Materials/Castle gate.mat
+  uploadId: 384150

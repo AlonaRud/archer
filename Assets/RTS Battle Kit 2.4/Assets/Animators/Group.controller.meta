@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e51e9fcb35dfd7649a5e4a4f5bba7a0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Animators/Group.controller
+  uploadId: 384150

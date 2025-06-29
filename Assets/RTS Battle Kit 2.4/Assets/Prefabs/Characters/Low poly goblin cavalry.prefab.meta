@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4369fc37b27239469d55daeb5f567e2
+timeCreated: 1485964110
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly goblin
+    cavalry.prefab
+  uploadId: 384150

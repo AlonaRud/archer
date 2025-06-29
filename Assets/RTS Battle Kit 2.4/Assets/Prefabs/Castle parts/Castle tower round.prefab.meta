@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adedde07be905ab46be481f207abb0b3
+timeCreated: 1472989528
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castle parts/Castle tower round.prefab
+  uploadId: 384150

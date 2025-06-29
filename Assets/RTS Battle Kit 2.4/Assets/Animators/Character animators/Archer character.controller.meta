@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a58ed12bbea9b0f40ac9be70cd62dc4e
+timeCreated: 1482765936
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Animators/Character animators/Archer
+    character.controller
+  uploadId: 384150

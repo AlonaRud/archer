@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e18939183ae65ba4480b39346b623d02
+timeCreated: 1485983875
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly unarmed
+    knight x16.prefab
+  uploadId: 384150

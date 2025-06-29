@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e2a114630d3c2040b4cdc89cd54e627
+timeCreated: 1483892848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Models/Materials/Boat.mat
+  uploadId: 384150

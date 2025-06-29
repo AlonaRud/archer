@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04d18fe93b4ae834496c944a9750dbaa
+timeCreated: 1485959107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Horse.mat
+  uploadId: 384150

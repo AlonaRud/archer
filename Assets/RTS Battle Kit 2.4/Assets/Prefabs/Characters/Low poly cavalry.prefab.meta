@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca92339025ff11a4fab89b41f4bbe3a9
+timeCreated: 1485960035
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly cavalry.prefab
+  uploadId: 384150

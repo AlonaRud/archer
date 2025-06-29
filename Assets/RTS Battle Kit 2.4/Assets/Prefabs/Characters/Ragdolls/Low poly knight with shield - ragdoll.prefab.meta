@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d9c4af7babc25f043bfa56344295d87a
+timeCreated: 1513623050
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Ragdolls/Low poly
+    knight with shield - ragdoll.prefab
+  uploadId: 384150

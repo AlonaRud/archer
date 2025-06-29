@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e4d62f02946c8d478202e2f167d4586
+timeCreated: 1459856156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Unarmed
+    soldier  jeans.mat
+  uploadId: 384150

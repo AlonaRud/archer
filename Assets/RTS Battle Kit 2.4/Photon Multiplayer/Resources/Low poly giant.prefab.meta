@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1ba46e13be8b364f8efdd17f9d4942f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Low poly giant.prefab
+  uploadId: 384150

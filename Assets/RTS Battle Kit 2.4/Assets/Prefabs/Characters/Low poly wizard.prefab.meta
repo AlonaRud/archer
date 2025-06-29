@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c2b745aea4ebde4dbe9e70fac17e10d
+timeCreated: 1481991124
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly wizard.prefab
+  uploadId: 384150

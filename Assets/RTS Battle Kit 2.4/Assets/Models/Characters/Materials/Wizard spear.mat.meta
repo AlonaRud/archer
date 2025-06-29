@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7f011dcb7109384e93d9c636f3e7a29
+timeCreated: 1481979424
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Wizard
+    spear.mat
+  uploadId: 384150

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2dccc7b424ca1354fb4932ff237c3dbc
+timeCreated: 1473954767
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Minimap
+    enemy.mat
+  uploadId: 384150

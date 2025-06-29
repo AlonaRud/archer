@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48521da8a68d34644bff203f0eaba1b2
+timeCreated: 1472989523
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castle parts/Castle gate.prefab
+  uploadId: 384150

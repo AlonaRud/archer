@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0751a2e71b63b6c47b9f38e818642a5b
+timeCreated: 1481040172
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Materials/Minimap icon
+    multiplayer.mat
+  uploadId: 384150

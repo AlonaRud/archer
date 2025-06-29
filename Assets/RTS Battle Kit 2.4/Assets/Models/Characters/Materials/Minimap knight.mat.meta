@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 33652043704b160439d9b6e77a08c380
+timeCreated: 1473954767
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Minimap
+    knight.mat
+  uploadId: 384150

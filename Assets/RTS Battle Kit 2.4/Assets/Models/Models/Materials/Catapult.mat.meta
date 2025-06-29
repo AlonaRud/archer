@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 438a2e3a720be754e9a5612620997824
+timeCreated: 1485799189
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Materials/Catapult.mat
+  uploadId: 384150

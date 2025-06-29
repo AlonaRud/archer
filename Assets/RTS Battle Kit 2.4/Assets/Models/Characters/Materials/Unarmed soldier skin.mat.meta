@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 469c831947eb5394baae3be75f7e27b8
+timeCreated: 1459856156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Unarmed
+    soldier skin.mat
+  uploadId: 384150

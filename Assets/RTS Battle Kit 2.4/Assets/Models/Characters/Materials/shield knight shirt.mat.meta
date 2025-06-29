@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7eef5b7cf0a5a94992936e36745d6f5
+timeCreated: 1485710022
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/shield
+    knight shirt.mat
+  uploadId: 384150

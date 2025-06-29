@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe93e64ba091e4d4d99f146a9a9391ee
+timeCreated: 1508780570
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/UI/Minimap texture.renderTexture
+  uploadId: 384150

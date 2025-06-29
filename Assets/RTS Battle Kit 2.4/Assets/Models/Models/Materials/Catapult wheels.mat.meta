@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d488b66f94878441a33ce5f9da33d3f
+timeCreated: 1485799189
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Models/Materials/Catapult wheels.mat
+  uploadId: 384150

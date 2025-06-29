@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e96dff9450a80914a81a5a049787099e
+timeCreated: 1485959245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/lance.mat
+  uploadId: 384150

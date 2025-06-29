@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1cdf958afda55a74387f1f19fd32382c
+timeCreated: 1483893336
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Scripts/SimpleRotation.cs
+  uploadId: 384150

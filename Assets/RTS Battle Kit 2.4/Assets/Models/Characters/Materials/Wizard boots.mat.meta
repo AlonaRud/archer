@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4a8663caa7380f4383bb90f3cf56d82
+timeCreated: 1481979094
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/Wizard
+    boots.mat
+  uploadId: 384150

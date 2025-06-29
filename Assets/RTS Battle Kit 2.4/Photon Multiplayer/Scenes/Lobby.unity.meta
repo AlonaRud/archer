@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a58c3b4001ed5ba4e955e9eeb022ac03
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Scenes/Lobby.unity
+  uploadId: 384150

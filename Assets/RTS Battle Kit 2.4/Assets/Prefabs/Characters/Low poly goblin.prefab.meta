@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a10b952a51d16794d9fb984f931c0e50
+timeCreated: 1481744154
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly goblin.prefab
+  uploadId: 384150

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd3c3b2b0eb19964292afd1046be2624
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Resources/Die particles
+    multiplayer.prefab
+  uploadId: 384150

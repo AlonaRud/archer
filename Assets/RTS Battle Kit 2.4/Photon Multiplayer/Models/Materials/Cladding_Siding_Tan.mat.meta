@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7df1d27d1f0d5db4b9acb958d93613fe
+timeCreated: 1508778635
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Models/Materials/Cladding_Siding_Tan.mat
+  uploadId: 384150

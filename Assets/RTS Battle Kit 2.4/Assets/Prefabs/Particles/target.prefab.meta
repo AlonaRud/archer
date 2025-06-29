@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47a8e9fd7d9c6614aaf03a2561e504c0
+timeCreated: 1472985235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Particles/target.prefab
+  uploadId: 384150

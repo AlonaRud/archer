@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f93717709d3b47f49bdde5a43c238385
+timeCreated: 1473860325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Models/Characters/Materials/archer
+    arrow 2.mat
+  uploadId: 384150

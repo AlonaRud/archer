@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80b6f21dc66ceb945ba2022f6a518c17
+timeCreated: 1483892848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Photon Multiplayer/Models/Materials/Boat sail.mat
+  uploadId: 384150

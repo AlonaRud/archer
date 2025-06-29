@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b9fa0d3fc0c7184e907abdb4cae708c
+timeCreated: 1471607797
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Particles/Shockwave.mat
+  uploadId: 384150

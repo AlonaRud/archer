@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f4f461d4127cd143b633e63b941c93f
+timeCreated: 1474710603
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Skybox/Skybox.mat
+  uploadId: 384150

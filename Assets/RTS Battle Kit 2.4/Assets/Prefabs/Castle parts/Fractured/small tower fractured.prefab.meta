@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3867eec0d4ccaa4897de49aa121d8b8
+timeCreated: 1486248039
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castle parts/Fractured/small
+    tower fractured.prefab
+  uploadId: 384150

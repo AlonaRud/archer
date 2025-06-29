@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33403714bbcaf0e4cb0b20ae6f0351c6
+timeCreated: 1459243455
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Low poly knight.prefab
+  uploadId: 384150

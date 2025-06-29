@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac0893b8c57353a48858b70d6b047cde
+timeCreated: 1459268208
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Castles/Player castle.prefab
+  uploadId: 384150

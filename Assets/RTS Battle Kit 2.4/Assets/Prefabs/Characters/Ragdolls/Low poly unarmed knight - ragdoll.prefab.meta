@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 129f0f64088451c4f8639bfc26a9a8cd
+timeCreated: 1515945785
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Prefabs/Characters/Ragdolls/Low poly
+    unarmed knight - ragdoll.prefab
+  uploadId: 384150
