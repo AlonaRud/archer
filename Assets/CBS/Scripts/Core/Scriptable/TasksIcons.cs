@@ -6,9 +6,7 @@ namespace CBS.Scriptable
     public class TasksIcons : IconsData
     {
         public override string ResourcePath => "TasksIcons";
-
         public override string EditorPath => "Assets/CBS_External/Resources";
-
         public override string EditorAssetName => "TasksIcons.asset";
     }
 }

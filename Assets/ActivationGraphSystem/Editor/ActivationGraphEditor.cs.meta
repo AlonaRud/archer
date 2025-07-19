@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 73811e4ecd129df45be5c0820dfed073
+timeCreated: 1462186175
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Editor/ActivationGraphEditor.cs
+  uploadId: 277639

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 180a32d670d75a74e9c42c005ccd9f54
+timeCreated: 1477994968
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Swordsman.mat
+  uploadId: 277639

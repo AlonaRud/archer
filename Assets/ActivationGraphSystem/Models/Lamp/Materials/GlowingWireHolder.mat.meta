@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3200798028e7d84da12170c61ffdff8
+timeCreated: 1478223186
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Materials/GlowingWireHolder.mat
+  uploadId: 277639

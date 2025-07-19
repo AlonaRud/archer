@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d5fb5673d76f2149968354ccbd48550
+timeCreated: 1475134866
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scenes/SceneComplex.unity
+  uploadId: 277639

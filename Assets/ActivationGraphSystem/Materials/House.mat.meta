@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84c20b9739be90248b1d9d8152b5aadf
+timeCreated: 1477994953
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/House.mat
+  uploadId: 277639

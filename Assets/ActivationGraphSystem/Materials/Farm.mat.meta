@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f71940cf348af741bd259b16b47f93b
+timeCreated: 1477994954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Farm.mat
+  uploadId: 277639

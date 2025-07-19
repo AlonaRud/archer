@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79fc07b896aed8e48bde863e3e4c57a3
+timeCreated: 1477995350
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/House.prefab
+  uploadId: 277639

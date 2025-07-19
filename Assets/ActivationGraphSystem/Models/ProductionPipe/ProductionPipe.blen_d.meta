@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc434c13281067241b2b05cfbc14e167
+timeCreated: 1478450133
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/ProductionPipe/ProductionPipe.blen_d
+  uploadId: 277639

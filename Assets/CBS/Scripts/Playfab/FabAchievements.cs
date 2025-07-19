@@ -1,4 +1,5 @@
-﻿using CBS.Models;
+﻿using CBS;
+using CBS.Models;
 using PlayFab;
 using PlayFab.CloudScriptModels;
 using System;
@@ -11,7 +12,7 @@ namespace CBS.Playfab
         {
             var request = new ExecuteFunctionRequest
             {
-                FunctionName = AzureFunctions.GetProfileAchievementsMethod,
+                FunctionName = "GetProfileAchievements",
                 FunctionParameter = new FunctionGetAchievementsRequest
                 {
                     ProfileID = profileID,
@@ -25,7 +26,7 @@ namespace CBS.Playfab
         {
             var request = new ExecuteFunctionRequest
             {
-                FunctionName = AzureFunctions.AddAchievementPointsMethod,
+                FunctionName = "AddAchievementPoints",
                 FunctionParameter = new FunctionModifyAchievementPointsRequest
                 {
                     ProfileID = profileID,
@@ -41,7 +42,7 @@ namespace CBS.Playfab
         {
             var request = new ExecuteFunctionRequest
             {
-                FunctionName = AzureFunctions.PickupAchievementRewardMethod,
+                FunctionName = "PickupAchievementReward",
                 FunctionParameter = new FunctionIDRequest
                 {
                     ProfileID = profileID,
@@ -55,7 +56,7 @@ namespace CBS.Playfab
         {
             var request = new ExecuteFunctionRequest
             {
-                FunctionName = AzureFunctions.ResetAchievementMethod,
+                FunctionName = "ResetAchievement",
                 FunctionParameter = new FunctionIDRequest
                 {
                     ProfileID = profileID,
@@ -69,7 +70,7 @@ namespace CBS.Playfab
         {
             var request = new ExecuteFunctionRequest
             {
-                FunctionName = AzureFunctions.GetAchievementsBadgeMethod,
+                FunctionName = "GetAchievementsBadge",
                 FunctionParameter = new FunctionBaseRequest
                 {
                     ProfileID = profileID
@@ -77,5 +78,49 @@ namespace CBS.Playfab
             };
             PlayFabCloudScriptAPI.ExecuteFunction(request, onGet, onFailed);
         }
+
+        public void StartTechStudy(string profileID, string achievementID, int tierIndex, DateTime endTime, Action<ExecuteFunctionResult> onStudy, Action<PlayFabError> onFailed)
+        {
+            var request = new ExecuteFunctionRequest
+            {
+                FunctionName = "StartTechStudy",
+                FunctionParameter = new FunctionTechStudyRequest
+                {
+                    ProfileID = profileID,
+                    AchievementID = achievementID,
+                    TierIndex = tierIndex,
+                    EndTime = endTime
+                }
+            };
+            PlayFabCloudScriptAPI.ExecuteFunction(request, onStudy, onFailed);
+        }
+
+        public void CheckActiveStudy(string profileID, Action<ExecuteFunctionResult> onGet, Action<PlayFabError> onFailed)
+        {
+            var request = new ExecuteFunctionRequest
+            {
+                FunctionName = "CheckActiveStudy",
+                FunctionParameter = new FunctionBaseRequest
+                {
+                    ProfileID = profileID
+                }
+            };
+            PlayFabCloudScriptAPI.ExecuteFunction(request, onGet, onFailed);
+        }
+    }
+
+    [Serializable]
+    public class FunctionTechStudyRequest
+    {
+        public string ProfileID;
+        public string AchievementID;
+        public int TierIndex;
+        public DateTime EndTime;
+    }
+
+    [Serializable]
+    public class FunctionActiveStudyResult
+    {
+        public bool IsActive;
     }
 }

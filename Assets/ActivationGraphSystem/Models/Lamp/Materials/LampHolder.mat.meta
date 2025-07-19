@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d640fdfeb1305f4587486487e408abc
+timeCreated: 1478223187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Materials/LampHolder.mat
+  uploadId: 277639

@@ -1,4 +1,5 @@
-﻿using CBS.Models;
+﻿using CBS;
+using CBS.Models;
 using PlayFab;
 using PlayFab.CloudScriptModels;
 using System;
@@ -16,5 +17,11 @@ namespace CBS.Playfab
         void ResetAchievement(string profileID, string achievementID, Action<ExecuteFunctionResult> onGet, Action<PlayFabError> onFailed);
 
         void GetAchievementsBadge(string profileID, Action<ExecuteFunctionResult> onGet, Action<PlayFabError> onFailed);
+
+        // NEW: Start technology study
+        void StartTechStudy(string profileID, string achievementID, int tierIndex, DateTime endTime, Action<ExecuteFunctionResult> onStudy, Action<PlayFabError> onFailed);
+
+        // NEW: Check if any technology is being studied
+        void CheckActiveStudy(string profileID, Action<ExecuteFunctionResult> onGet, Action<PlayFabError> onFailed);
     }
 }

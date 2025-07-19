@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b453133eaaf7dbb48bee7b779a6be2b8
+timeCreated: 1478299456
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Textures/MissionIcons.xcf
+  uploadId: 277639

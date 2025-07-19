@@ -87,6 +87,9 @@ namespace CBS.Editor
                 case MenuTitles.Notification:
                     imagePath = state == ButtonState.Default ? "notification_default.png" : "notification_active.png";
                     return (Texture)AssetDatabase.LoadAssetAtPath(TexturePath + imagePath, typeof(Texture));
+                case MenuTitles.Captains:
+                    imagePath = state == ButtonState.Default ? "captains_default.png" : "captains_active.png";
+                    return (Texture)AssetDatabase.LoadAssetAtPath(TexturePath + imagePath, typeof(Texture));
                 default:
                     return null;
             }
@@ -165,6 +168,9 @@ namespace CBS.Editor
                     return (Texture)AssetDatabase.LoadAssetAtPath(TexturePath + imagePath, typeof(Texture));
                 case MenuTitles.Notification:
                     imagePath = "Titles/notification_title.png";
+                    return (Texture)AssetDatabase.LoadAssetAtPath(TexturePath + imagePath, typeof(Texture));
+                case MenuTitles.Captains:
+                    imagePath = "Titles/captains_title.png";
                     return (Texture)AssetDatabase.LoadAssetAtPath(TexturePath + imagePath, typeof(Texture));
                 default:
                     return null;
@@ -288,5 +294,4 @@ namespace CBS.Editor
         Default,
         Active
     }
-
 }

@@ -124,5 +124,4 @@ namespace CBS.UI
                 }
             });
         }
-    }
-}
+    }}

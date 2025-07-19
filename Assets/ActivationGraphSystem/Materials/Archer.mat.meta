@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83a043ee08996a54f9a21aa7d09a9828
+timeCreated: 1477994969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Archer.mat
+  uploadId: 277639

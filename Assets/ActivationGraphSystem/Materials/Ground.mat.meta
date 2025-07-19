@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f55e4b06048dd6e42a20b48ab7adbc29
+timeCreated: 1477996753
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Ground.mat
+  uploadId: 277639

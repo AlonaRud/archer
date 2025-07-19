@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2d995477ccb5eca41a4b4190a1ee96e9
+timeCreated: 1463139126
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/Example/MissionItem.cs
+  uploadId: 277639

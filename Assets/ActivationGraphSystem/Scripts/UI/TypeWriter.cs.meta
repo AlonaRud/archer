@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b8017aa5475fdc142b30ef5edb95fd35
+timeCreated: 1463138983
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/UI/TypeWriter.cs
+  uploadId: 277639

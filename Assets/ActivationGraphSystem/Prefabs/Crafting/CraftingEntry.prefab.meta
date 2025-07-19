@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65f04e48190e4ec43ae3b6ecea6b18f8
+timeCreated: 1475860410
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/Crafting/CraftingEntry.prefab
+  uploadId: 277639

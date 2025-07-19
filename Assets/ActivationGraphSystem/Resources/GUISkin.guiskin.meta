@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a07a9b1b78c9e0c49b6c8b4ee97ba815
+timeCreated: 1462466430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Resources/GUISkin.guiskin
+  uploadId: 277639

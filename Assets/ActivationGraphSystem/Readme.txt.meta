@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dd74ea24f5858b40947739b8f6bf592
+timeCreated: 1463406279
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Readme.txt
+  uploadId: 277639

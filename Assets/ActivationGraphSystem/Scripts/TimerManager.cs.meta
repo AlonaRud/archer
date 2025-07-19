@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 32fc9b21bf6ca7140831a78dbd77895f
+timeCreated: 1477689209
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/TimerManager.cs
+  uploadId: 277639

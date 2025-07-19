@@ -5,6 +5,12 @@
             "name": "Attach to Unity",
             "type": "vstuc",
             "request": "attach"
+        },
+        {
+            "name": "Attach to .NET Functions",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:azureFunctions.pickProcess}"
         }
-     ]
+    ]
 }

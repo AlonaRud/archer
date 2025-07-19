@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8320f6f24ac78514ebc7e7a0c807ad64
+timeCreated: 1478450133
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Lamp.blen_d
+  uploadId: 277639

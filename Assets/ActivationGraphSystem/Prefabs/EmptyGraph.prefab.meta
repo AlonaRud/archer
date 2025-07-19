@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9990fd4cbb10bb4e922ff7bc980bfe7
+timeCreated: 1475884720
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/EmptyGraph.prefab
+  uploadId: 277639

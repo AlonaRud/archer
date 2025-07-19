@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 819f58397dfca894aa5ecae8b2b06c10
+timeCreated: 1478223187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Materials/LampProtMother.mat
+  uploadId: 277639

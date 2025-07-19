@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6bc8e0f3290fa749be226ad3851f2e3
+timeCreated: 1477995352
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/LumberJackHut.prefab
+  uploadId: 277639

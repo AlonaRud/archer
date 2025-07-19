@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c71b2d8b846c608448f358332acc8bb9
+timeCreated: 1477994955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/GoldMine.mat
+  uploadId: 277639

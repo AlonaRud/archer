@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89a943be40096c048acda3dae6b98683
+timeCreated: 1463182451
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Player.mat
+  uploadId: 277639

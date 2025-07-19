@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6faefabb3e5b114680d28473cfd0842
+timeCreated: 1477995353
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/GoldMine.prefab
+  uploadId: 277639

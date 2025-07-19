@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 53ab1b4329622e64a9161b7cac809aae
+timeCreated: 1475050309
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/ContainerBase.cs
+  uploadId: 277639

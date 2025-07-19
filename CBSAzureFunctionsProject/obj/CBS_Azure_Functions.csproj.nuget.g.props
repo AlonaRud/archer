@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/alyona/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/alyona/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/alyona/.nuget/packages/" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/8.0.1/buildTransitive/net6.0/Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/8.0.1/buildTransitive/net6.0/Microsoft.Extensions.Configuration.UserSecrets.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1/build/Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator.props" Condition="Exists('$(NuGetPackageRoot)microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1/build/Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.azure.functions.worker.sdk/2.0.0/build/Microsoft.Azure.Functions.Worker.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.azure.functions.worker.sdk/2.0.0/build/Microsoft.Azure.Functions.Worker.Sdk.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator Condition=" '$(PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator)' == '' ">/Users/alyona/.nuget/packages/microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1</PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator>
+    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">/Users/alyona/.nuget/packages/grpc.tools/2.49.0</PkgGrpc_Tools>
+    <PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers Condition=" '$(PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers)' == '' ">/Users/alyona/.nuget/packages/microsoft.azure.webjobs.extensions.durabletask.analyzers/0.5.0</PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers>
+    <PkgMicrosoft_Azure_Functions_Worker_Sdk_Analyzers Condition=" '$(PkgMicrosoft_Azure_Functions_Worker_Sdk_Analyzers)' == '' ">/Users/alyona/.nuget/packages/microsoft.azure.functions.worker.sdk.analyzers/1.2.2</PkgMicrosoft_Azure_Functions_Worker_Sdk_Analyzers>
+    <PkgMicrosoft_Azure_Functions_Worker_Sdk Condition=" '$(PkgMicrosoft_Azure_Functions_Worker_Sdk)' == '' ">/Users/alyona/.nuget/packages/microsoft.azure.functions.worker.sdk/2.0.0</PkgMicrosoft_Azure_Functions_Worker_Sdk>
+  </PropertyGroup>
+</Project>

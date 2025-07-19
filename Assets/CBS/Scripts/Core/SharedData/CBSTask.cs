@@ -1,10 +1,10 @@
-﻿using CBS.Core;
-using CBS.Models;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CBS
+﻿namespace CBS
 {
+    using CBS.Core;
+    using CBS.Models;
+    using System.Collections.Generic;
+    using System.Linq;
+
     [System.Serializable]
     public class CBSTask : ICustomData<CBSTaskCustomData>
     {
@@ -22,6 +22,7 @@ namespace CBS
         public string ExternalUrl;
         public RewardObject Reward;
         public List<TaskTier> TierList;
+        public bool IsActive; // NEW: Флаг активности технологии
 
         public BaseTaskState TaskState;
         public ProfileEventContainer Events;
@@ -43,7 +44,6 @@ namespace CBS
                 return TierList[TierIndex];
             }
         }
-
 
         public string CustomDataClassName { get; set; }
         public string CustomRawData { get; set; }

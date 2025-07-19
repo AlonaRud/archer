@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a827b2f535d1b34ab6798d341de89be
+timeCreated: 1462192907
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scenes/SceneMission.unity
+  uploadId: 277639

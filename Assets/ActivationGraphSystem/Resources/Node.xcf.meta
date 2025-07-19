@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44badc6fb34ed6943948ce23045f9b45
+timeCreated: 1487003588
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Resources/Node.xcf
+  uploadId: 277639

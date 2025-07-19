@@ -41,7 +41,6 @@ namespace CBS.UI
         protected virtual string NotCompleteText { get; }
         protected virtual string CompleteText { get; }
 
-
         private void Awake()
         {
             OnInit();
@@ -49,27 +48,23 @@ namespace CBS.UI
 
         protected virtual void OnInit() { }
 
-        public void Display(T task)
+        public virtual void Display(T task) // Добавлено virtual
         {
             Task = task;
             var isCompleted = Task.IsComplete;
             var rewardAvailable = Task.IsRewardAvailable();
 
             ToDefault();
-            // draw title
             Title.text = Task.Title;
             Description.text = Task.Description;
-            // draw sprite
             var iconSprite = Task.GetSprite();
             IconImage.gameObject.SetActive(iconSprite != null);
             IconImage.sprite = iconSprite;
-            // check locked
             bool isLocked = !Task.IsAvailable;
             LockBtn.SetActive(isLocked);
             IconLock.SetActive(isLocked);
             if (isLocked)
                 NotifyLabel.text = LockText;
-            // draw slider state
             if (!isLocked && Task.Type == TaskType.ONE_SHOT)
             {
                 NotifyLabel.text = NotCompleteText;
@@ -83,10 +78,8 @@ namespace CBS.UI
                 StepsLabel.text = sliderTitle;
                 StepsSlider.gameObject.SetActive(!isCompleted);
             }
-            // draw buttons
             if (isCompleted)
                 NotifyLabel.text = CompleteText;
-            // check tiered
             if (Task.Type == TaskType.TIERED)
             {
                 LevelTitle.text = Task.TierIndex.ToString();
@@ -104,7 +97,6 @@ namespace CBS.UI
             LevelIcon.SetActive(Task.Type == TaskType.TIERED);
         }
 
-        // button click
         public virtual void OnAddPoint() { }
 
         public virtual void GetRewards() { }

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69683f6b78b6b0e4ebcdc0bf299eb28a
+timeCreated: 1477995355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/CommandBuilding.prefab
+  uploadId: 277639

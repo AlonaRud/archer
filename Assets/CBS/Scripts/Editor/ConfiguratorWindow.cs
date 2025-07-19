@@ -169,6 +169,9 @@ namespace CBS.Editor
                 case MenuTitles.TitleData:
                     CurrentConfigurator = new TitleDataConfigurator();
                     break;
+                case MenuTitles.Captains:
+                CurrentConfigurator = new CaptainsConfigurator();
+                break;
                 case MenuTitles.Events:
                     CurrentConfigurator = new EventsConfigurator();
                     break;
@@ -238,6 +241,8 @@ namespace CBS.Editor
         BattlePass,
         Story,
         Notification,
+
+        Captains,
         Events,
         Azure,
         PlayFab,

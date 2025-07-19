@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 359a37b95766ae647b466318e36f95ce
+timeCreated: 1477998024
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/PhysMat.physicMaterial
+  uploadId: 277639

@@ -32,5 +32,5 @@ namespace CBS.Scriptable
                 return UseCacheForAvatars;
             }
         }
-    }
-}
+    }  }
+    

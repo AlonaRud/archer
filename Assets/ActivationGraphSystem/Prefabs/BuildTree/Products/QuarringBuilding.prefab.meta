@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c6033e1487fe4948929d8ada02dc8b2
+timeCreated: 1477995354
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/QuarringBuilding.prefab
+  uploadId: 277639

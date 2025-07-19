@@ -1,5 +1,7 @@
 {
-    "recommendations": [
-      "visualstudiotoolsforunity.vstuc"
-    ]
+  "recommendations": [
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-dotnettools.csharp",
+    "visualstudiotoolsforunity.vstuc"
+  ]
 }

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f92ea39e6339eb40aa6003b642f8eec
+timeCreated: 1487086242
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Resources/BoxSuccess.xcf
+  uploadId: 277639

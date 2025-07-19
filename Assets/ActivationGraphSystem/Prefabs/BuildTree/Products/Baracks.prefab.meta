@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7ebfe9c1ef8fc645929a557913ec39f
+timeCreated: 1477995355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/Baracks.prefab
+  uploadId: 277639

@@ -134,7 +134,7 @@ namespace CBS
                     var consumedItems = functionResult.ConsumedItems;
 
                     Get<CBSCurrencyModule>().ChangeRequest(spendedCurrencies.Select(x => x.Key).ToArray());
-                    Get<CBSInventoryModule>().RevokeRequest(spendedInstances);
+                   Get<CBSInventoryModule>().RevokeRequest(spendedInstances); 
                     Get<CBSInventoryModule>().ConsumeSpendRequest(consumedItems);
 
                     result?.Invoke(new CBSCraftResult

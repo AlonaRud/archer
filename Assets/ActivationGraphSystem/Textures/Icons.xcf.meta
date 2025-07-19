@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fff052cd5235cbd4cb763811f5bd9607
+timeCreated: 1477942521
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Textures/Icons.xcf
+  uploadId: 277639

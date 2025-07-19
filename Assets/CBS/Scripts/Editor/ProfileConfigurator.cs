@@ -9,12 +9,17 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
+
 #if ENABLE_PLAYFABSERVER_API
 using PlayFab.ServerModels;
+
 #endif
 
 namespace CBS.Editor
 {
+
+
+
     public class ProfileConfigurator : BaseConfigurator
     {
         private readonly string LEVEL_TITLE_ID = TitleKeys.LevelTitleDataKey;
@@ -24,7 +29,6 @@ namespace CBS.Editor
 
         private ProfileLevelTable LevelTable { get; set; } = new ProfileLevelTable();
         private AvatarsTable AvatarsTable { get; set; }
-
         private List<PlayFab.AdminModels.CatalogItem> CachedItems { get; set; }
         private Categories CachedItemCategories { get; set; }
         private Categories CachedLootBoxCategories { get; set; }
@@ -93,12 +97,13 @@ namespace CBS.Editor
             AvailableAzureMethods.TrimExcess();
 
             GetLevelTable();
+
         }
 
         protected override void OnDrawInside()
         {
             // draw sub titles
-            var lastSelectedBar = GUILayout.Toolbar(SelectedToolBar, new string[] { "Level/Expirience", "Online Status", "Profile Avatars", "Player Management" });
+            var lastSelectedBar = GUILayout.Toolbar(SelectedToolBar, new string[] { "Level/Expirience", "Online Status", "Profile Avatars", "Player Management",  });
             switch (SelectedToolBar)
             {
                 case 0:
@@ -682,7 +687,7 @@ namespace CBS.Editor
             }
             HideProgress();
         }
-        
+
         private void UpdateAvatarTable(AvatarsTable avatarTable)
         {
             ShowProgress();
@@ -698,7 +703,7 @@ namespace CBS.Editor
             PlayFabServerAPI.SetTitleInternalData(dataRequest, OnAvataTableUpdated, OnUpdateFailed);
 #endif
         }
-        
+
 #if ENABLE_PLAYFABSERVER_API
         private void OnAvataTableUpdated(SetTitleDataResult result)
         {
@@ -1018,6 +1023,8 @@ namespace CBS.Editor
             }
             return AvatarsTable;
         }
+
     }
 }
 #endif
+

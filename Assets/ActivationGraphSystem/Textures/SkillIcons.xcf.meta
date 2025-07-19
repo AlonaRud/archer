@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e3c28fd9c68248459daadcaa3453f53
+timeCreated: 1477952739
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Textures/SkillIcons.xcf
+  uploadId: 277639

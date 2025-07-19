@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62a4742ee352b39468e2128ffbe1e147
+timeCreated: 1477995356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/Castle.prefab
+  uploadId: 277639

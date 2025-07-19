@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dea4a59de0c1582438b35092e40a3f56
+timeCreated: 1463165071
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/Example/CubeMover.cs
+  uploadId: 277639

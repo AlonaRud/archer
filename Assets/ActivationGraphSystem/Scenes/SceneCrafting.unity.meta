@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4f836c9de3bf7b40baad361fccc0efb
+timeCreated: 1475134865
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scenes/SceneCrafting.unity
+  uploadId: 277639

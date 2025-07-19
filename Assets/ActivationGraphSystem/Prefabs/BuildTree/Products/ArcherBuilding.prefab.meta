@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 779bea5cde69af84bb814b52913f1767
+timeCreated: 1477995337
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/ArcherBuilding.prefab
+  uploadId: 277639

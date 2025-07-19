@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e5b5c4322147644f8edce973335a16b
+timeCreated: 1477994970
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Knight.mat
+  uploadId: 277639

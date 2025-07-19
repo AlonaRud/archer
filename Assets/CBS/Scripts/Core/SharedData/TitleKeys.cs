@@ -1,4 +1,4 @@
-﻿namespace CBS
+﻿    namespace CBS
 {
     public static class TitleKeys
     {
@@ -13,6 +13,11 @@
         public const string FriendsDataKey = "CBSFriendsData";
         public const string StoreKey = "CBSStore";
         public const string AchievementsTitleKey = "CBSAchievements";
+
+        
+    public const string AchievementsCategoriesKey = "AchievementsCategories";
+    
+
         public const string ClanTaskTitleKey = "CBSClanTask";
         public const string ProfileTasksTitleKey = "CBSProfileTasks";
         public const string CalendarTitleKey = "CBSCalendarContainer";

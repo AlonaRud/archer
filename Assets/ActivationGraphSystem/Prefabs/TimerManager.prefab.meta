@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c09536d93574ec04f908d9b4a9c1c4e0
+timeCreated: 1477877494
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/TimerManager.prefab
+  uploadId: 277639

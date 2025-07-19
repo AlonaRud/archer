@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dfa42d24721c57438d1d6b464131a07
+timeCreated: 1478271654
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/ProductionPipe/Materials/ProductionPipe.mat
+  uploadId: 277639

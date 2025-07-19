@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8801fd2d32351e4682fa82559acaa8a
+timeCreated: 1475849199
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/BuildTreeGraph.prefab
+  uploadId: 277639

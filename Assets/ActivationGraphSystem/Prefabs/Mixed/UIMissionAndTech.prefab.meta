@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 931b812d36556444aa24b033fb353068
+timeCreated: 1475953030
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/Mixed/UIMissionAndTech.prefab
+  uploadId: 277639

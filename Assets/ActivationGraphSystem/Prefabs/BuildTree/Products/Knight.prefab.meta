@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aac640285abad524daee79a9ef2d039a
+timeCreated: 1477995753
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/Knight.prefab
+  uploadId: 277639

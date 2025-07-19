@@ -66,5 +66,10 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "archer.sln"
+    "dotnet.defaultSolution": "archer.sln",
+    "azureFunctions.deploySubpath": "CBSAzureFunctionsProject/bin/Release/net8.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)"
 }

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a75f6e9e822d8844c9b5c503e7bc646f
+timeCreated: 1477995754
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/BuildTree/Products/Swordsman.prefab
+  uploadId: 277639

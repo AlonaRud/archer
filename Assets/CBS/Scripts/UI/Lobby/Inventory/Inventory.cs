@@ -125,13 +125,14 @@ namespace CBS.UI
         }
 
         private void OnGetInventory(CBSGetInventoryResult result)
-        {
-            if (result.IsSuccess)
-            {
-                CurrentItems = result.NonEquippedItems;
-                DrawItems();
-            }
-        }
+{
+    if (result.IsSuccess)
+    {
+        CurrentItems = result.NonEquippedItems;
+        Debug.Log($"All items: {string.Join(", ", CurrentItems.Select(i => $"{i.ItemID} (Category: {i.Category})"))}");
+        DrawItems();
+    }
+}
 
         private void OnItemSpawn(GameObject uiItem, int index)
         {

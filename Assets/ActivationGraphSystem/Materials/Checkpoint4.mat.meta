@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 364e8191f61200847b2f9b7aea7610a0
+timeCreated: 1463182504
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Materials/Checkpoint4.mat
+  uploadId: 277639

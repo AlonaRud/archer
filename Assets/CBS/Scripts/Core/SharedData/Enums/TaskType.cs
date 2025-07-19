@@ -5,6 +5,8 @@ namespace CBS.Models
     {
         ONE_SHOT = 0,
         STEPS = 1,
-        TIERED = 2
+        TIERED = 2,
+
+        BUILDING=3
     }
 }

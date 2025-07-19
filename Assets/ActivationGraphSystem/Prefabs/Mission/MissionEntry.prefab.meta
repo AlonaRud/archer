@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96c18da69b2e2914b878c42fc9dc2387
+timeCreated: 1463147951
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/Mission/MissionEntry.prefab
+  uploadId: 277639

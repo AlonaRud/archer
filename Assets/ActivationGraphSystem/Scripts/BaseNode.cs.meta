@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3b195e86ee1db87469980234a741fb99
+timeCreated: 1462303938
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/BaseNode.cs
+  uploadId: 277639

@@ -147,7 +147,14 @@ namespace CBS.Editor
             }
             SelectedItemCatagoryID = selectedCategory;
             SelectedItemIndex = EditorGUILayout.Popup(SelectedItemIndex, AllItemsIDs);
-            SelectedItemID = AllItemsIDs[SelectedItemIndex];
+            if (AllItemsIDs != null && SelectedItemIndex >= 0 && SelectedItemIndex < AllItemsIDs.Length)
+{
+    SelectedItemID = AllItemsIDs[SelectedItemIndex];
+}
+else
+{
+    Debug.LogError($"Ошибка: AllItemsIDs is {(AllItemsIDs == null ? "null" : "not null")}, SelectedItemIndex = {SelectedItemIndex}, Length = {(AllItemsIDs?.Length ?? 0)}");
+}
             Recipe.ItemIdToGraft = SelectedItemID;
 
             GUILayout.EndHorizontal();

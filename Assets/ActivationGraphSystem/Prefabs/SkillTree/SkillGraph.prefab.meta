@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5256b99933651a04eab02de8d11ab037
+timeCreated: 1478003226
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/SkillTree/SkillGraph.prefab
+  uploadId: 277639

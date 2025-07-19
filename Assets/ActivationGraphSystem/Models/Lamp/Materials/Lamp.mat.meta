@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e42a02dac073dd440b37dcfbfc0b2782
+timeCreated: 1478223187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Materials/Lamp.mat
+  uploadId: 277639

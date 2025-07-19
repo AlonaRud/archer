@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cf8fc4cb9470076489033930fd8015d2
+timeCreated: 1462889232
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Scripts/ConditionUser.cs
+  uploadId: 277639

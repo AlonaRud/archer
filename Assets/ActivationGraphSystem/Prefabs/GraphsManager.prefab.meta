@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19c3ef422a14bb0489c93bb5d003cc6e
+timeCreated: 1476025465
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Prefabs/GraphsManager.prefab
+  uploadId: 277639

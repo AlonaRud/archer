@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97dbe856109203f43a516be902907e8b
+timeCreated: 1478223186
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70925
+  packageName: Activation Graph System
+  packageVersion: 1.44
+  assetPath: Assets/ActivationGraphSystem/Models/Lamp/Materials/LampSrew2.mat
+  uploadId: 277639
